@@ -1,4 +1,4 @@
-Just Clone or Download files and open terminal ,after going to file location enter the command npm i 
+Just Clone or Download files and open terminal ,after going to file location enter the command npm i  2]
 npm start
 
 and there it is...😊😊
